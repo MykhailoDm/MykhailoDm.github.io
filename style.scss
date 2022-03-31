@@ -1,11 +1,17 @@
-.dasjkfldj {
-  font-family: Arial sans-serif;
-  color: black;
+body {
+  color: aquamarine;
+}
 
-  .assafef {
-    border-style: solid;
-    border-color: crimson;
-    border-radius: 4em;
-    background-color: crimson;
+.engaging-text {
+  color: black;
+  font-family: Calibri SansSerif sans-serif;
+  border: 4mm solid crimson;
+  border-radius: 2em;
+  background-color: crimson;
+  cursor: pointer;
+  position: center;
+
+  .bottom-skip {
+    margin-bottom: 2em;
   }
 }

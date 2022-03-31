@@ -1,0 +1,11 @@
+.text {
+  font-family: Arial sans-serif;
+  color: black;
+
+  .border {
+    border-style: solid;
+    border-color: crimson;
+    border-radius: 4em;
+    background-color: crimson;
+  }
+}

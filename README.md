@@ -1,4 +1,7 @@
 # MykhailoDm.github.io
+
+Repository for first lab of Web Development course (LPNU)
+
 Github pages repo
 
 Index: https://mykhailodm.github.io/index.html
